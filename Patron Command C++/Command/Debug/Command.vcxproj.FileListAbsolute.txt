@@ -1,0 +1,2 @@
+C:\Users\alejandro\Desktop\c++\Command\Debug\Command.exe
+C:\Users\alejandro\Desktop\Tarea_I_Patrones\Patron Command C++\Command\Debug\Command.exe
